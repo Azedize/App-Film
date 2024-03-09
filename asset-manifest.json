@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/App-Film/static/css/main.3292250f.css",
+    "main.js": "/App-Film/static/js/main.68292b0a.js",
+    "index.html": "/App-Film/index.html",
+    "static/media/search.svg": "/App-Film/static/media/search.99c9e8b96b01cc0566bdca162b23fbe8.svg",
+    "main.3292250f.css.map": "/App-Film/static/css/main.3292250f.css.map",
+    "main.68292b0a.js.map": "/App-Film/static/js/main.68292b0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3292250f.css",
+    "static/js/main.68292b0a.js"
+  ]
+}
